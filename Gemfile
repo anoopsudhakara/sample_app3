@@ -9,6 +9,7 @@ group :development, :test do
   gem 'guard-spork', '1.2.0'
   gem 'childprocess', '0.3.6'
   gem 'spork', '0.9.2'
+  gem 'bootstrap-sass', '2.1'
 
 end
 
